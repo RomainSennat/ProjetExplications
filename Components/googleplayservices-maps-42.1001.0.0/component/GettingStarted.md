@@ -1,0 +1,7 @@
+[assembly: MetaData ("com.google.android.maps.v2.API_KEY", Value="YOUR-API-KEY")]
+[assembly: UsesPermission (Android.Manifest.Permission.Internet)]
+[assembly: UsesPermission (Android.Manifest.Permission.AccessNetworkState)]
+[assembly: UsesPermission (Android.Manifest.Permission.AccessCourseLocation)]
+[assembly: UsesPermission (Android.Manifest.Permission.AccessFineLocation)]
+[assembly: UsesPermission (Android.Manifest.Permission.AccessMockLocation)]
+[assembly: UsesPermission (Android.Manifest.Permission.WriteExternalStorage)]

@@ -1,6 +1,5 @@
 ﻿using MvvmCross.Core.ViewModels;
 using System.Windows.Input;
-using MvvmCross.Platform;
 using ProjetExplications.Core.Services;
 
 namespace ProjetExplications.Core.ViewModels

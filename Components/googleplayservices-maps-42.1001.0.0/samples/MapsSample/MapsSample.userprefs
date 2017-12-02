@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{8F7D2AC9-C3BB-4698-886C-610A582691E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../ProjetExplications.Droid/Views/MapView.cs">
+    <Files>
+      <File FileName="../../../../ProjetExplications/ViewModels/MainViewModel.cs" Line="23" Column="30" />
+      <File FileName="../../../../ProjetExplications.Droid/Views/MainView.cs" Line="13" Column="46" />
+      <File FileName="../../../../ProjetExplications/App.cs" Line="2" Column="1" />
+      <File FileName="../../../../ProjetExplications.Droid/Setup.cs" Line="18" Column="1" />
+      <File FileName="../../../../ProjetExplications/ViewModels/MapViewModel.cs" Line="16" Column="4" />
+      <File FileName="../../../../ProjetExplications/ViewModels/Location.cs" Line="27" Column="4" />
+      <File FileName="../../../../ProjetExplications.Droid/Properties/AssemblyInfo.cs" Line="35" Column="1" />
+      <File FileName="../../../../ProjetExplications.Droid/Views/MapView.cs" Line="12" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MapsSample PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MultiItemStartupConfigurations />
+</Properties>

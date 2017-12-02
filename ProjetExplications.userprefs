@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5A7A84AE-375E-47DA-BDE6-2CD46463133F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjetExplications/ViewModels/MainViewModel.cs">
+    <Files>
+      <File FileName="ProjetExplications/Services/ICalendarService.cs" Line="5" Column="19" />
+      <File FileName="ProjetExplications/Services/IPlateformService.cs" Line="8" Column="1" />
+      <File FileName="ProjetExplications/ViewModels/Location.cs" Line="3" Column="35" />
+      <File FileName="ProjetExplications/ViewModels/MainViewModel.cs" Line="42" Column="55" />
+      <File FileName="ProjetExplications/ViewModels/MapViewModel.cs" Line="13" Column="23" />
+      <File FileName="ProjetExplications/App.cs" Line="18" Column="2" />
+      <File FileName="ProjetExplications.Droid/Services/CalendarService.cs" Line="25" Column="30" />
+      <File FileName="ProjetExplications.Droid/Services/PlateformService.cs" Line="10" Column="44" />
+      <File FileName="ProjetExplications.Droid/Converters/LocationToLatLngConverter.cs" Line="5" Column="46" />
+      <File FileName="ProjetExplications.Droid/Views/MainView.cs" Line="16" Column="46" />
+      <File FileName="ProjetExplications.Droid/Wrappers/MarkerWrapper.cs" Line="5" Column="44" />
+      <File FileName="ProjetExplications.Droid/Views/MapView.cs" Line="17" Column="9" />
+      <File FileName="ProjetExplications.Droid/Setup.cs" Line="28" Column="4" />
+      <File FileName="ProjetExplications/Services/IResolverService.cs" Line="9" Column="1" />
+      <File FileName="ProjetExplications/Services/ResolverService.cs" Line="16" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProjetExplications.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MultiItemStartupConfigurations />
+</Properties>

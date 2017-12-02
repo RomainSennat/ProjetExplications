@@ -1,0 +1,14 @@
+/Users/romain/Projects/ProjetExplications/ProjetExplications/bin/Debug/ProjetExplications.dll
+/Users/romain/Projects/ProjetExplications/ProjetExplications/bin/Debug/ProjetExplications.pdb
+/Users/romain/Projects/ProjetExplications/ProjetExplications/bin/Debug/MvvmCross.Core.dll
+/Users/romain/Projects/ProjetExplications/ProjetExplications/bin/Debug/MvvmCross.Platform.dll
+/Users/romain/Projects/ProjetExplications/ProjetExplications/bin/Debug/MvvmCross.Platform.pdb
+/Users/romain/Projects/ProjetExplications/ProjetExplications/bin/Debug/MvvmCross.Core.pdb
+/Users/romain/Projects/ProjetExplications/ProjetExplications/obj/Debug/ProjetExplications.Core.csprojResolveAssemblyReference.cache
+/Users/romain/Projects/ProjetExplications/ProjetExplications/obj/Debug/ProjetExplications.Core.csproj.CoreCompileInputs.cache
+/Users/romain/Projects/ProjetExplications/ProjetExplications/obj/Debug/ProjetExplications.dll
+/Users/romain/Projects/ProjetExplications/ProjetExplications/obj/Debug/ProjetExplications.pdb
+/Users/romain/Projects/ProjetExplications/ProjetExplications/bin/Debug/MvvmCross.Plugins.Location.dll
+/Users/romain/Projects/ProjetExplications/ProjetExplications/bin/Debug/MvvmCross.Plugins.Messenger.dll
+/Users/romain/Projects/ProjetExplications/ProjetExplications/bin/Debug/MvvmCross.Plugins.Location.pdb
+/Users/romain/Projects/ProjetExplications/ProjetExplications/bin/Debug/MvvmCross.Plugins.Messenger.pdb
